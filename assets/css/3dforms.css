@@ -1,0 +1,19 @@
+.body{
+  overflow-x: hidden;
+}
+.intro{
+  background-color: #111;
+}
+
+.intro menu{
+    display: block;
+    text-align: center;
+    position: fixed;
+    top: -12px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    width: 100%;
+    justify-content: center;
+}
